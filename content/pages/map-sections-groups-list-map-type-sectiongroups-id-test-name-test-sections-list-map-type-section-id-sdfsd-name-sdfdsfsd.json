@@ -3,47 +3,7 @@
     {
       "type": "SectionGroups",
       "id": "1",
-      "Name": "Section Group #1",
-      "sections": [
-        {
-          "type": "section",
-          "id": "2",
-          "Name": "Section #1",
-          "paragraphs": [
-            {
-              "type": "paragraph",
-              "id": "3",
-              "Name": "Paragraph #1",
-              "IsActive": true,
-              "IsDeleted": true,
-              "IsSkipHeadlessDisplay": true,
-              "answers": [
-                {
-                  "type": "answer",
-                  "id": "6",
-                  "Name": "Answer #2",
-                  "IsDeleted": true,
-                  "Text": "fasfasdf\n\nsad\n\nfas\n\ndf",
-                  "IsWarning": true
-                },
-                {
-                  "type": "answer",
-                  "id": "4",
-                  "Name": "Answer #1",
-                  "Text": "this is an answer..\n\n**Bolded Text**\n\n***Bold/Italic***\n\n* Bullet Point",
-                  "IsDeleted": true,
-                  "IsWarning": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "id": "7",
-              "Name": "Para 2"
-            }
-          ]
-        }
-      ]
+      "Name": "Test"
     }
   ]
 }
