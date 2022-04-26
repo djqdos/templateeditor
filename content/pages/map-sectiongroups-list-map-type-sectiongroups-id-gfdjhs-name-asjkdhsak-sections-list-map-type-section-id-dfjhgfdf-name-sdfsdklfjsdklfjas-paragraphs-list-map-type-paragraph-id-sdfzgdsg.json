@@ -29,6 +29,36 @@
           ]
         }
       ]
+    },
+    {
+      "type": "SectionGroups",
+      "sections": [
+        {
+          "type": "section",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "id": "dfg",
+              "Name": "dfg",
+              "IsActive": true,
+              "IsDeleted": true,
+              "answers": [
+                {
+                  "type": "answer",
+                  "id": "sdfgdfsg",
+                  "Name": "sdfg",
+                  "IsDeleted": true,
+                  "Text": "**sdfgdfsgd**\n\n**asdsa**\n\n\n\n* **asdsad**"
+                }
+              ]
+            }
+          ],
+          "id": "sdfg",
+          "Name": "sdfg"
+        }
+      ],
+      "id": "dsfgdsf",
+      "Name": "sdfg"
     }
   ]
 }
